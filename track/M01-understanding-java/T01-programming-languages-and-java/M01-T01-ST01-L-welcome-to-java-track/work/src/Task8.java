@@ -1,5 +1,6 @@
 public class Task8 {
     public static void main(String[] args) {
+        // switch case
         int num = 9;
         switch (num) {
             case 1:
