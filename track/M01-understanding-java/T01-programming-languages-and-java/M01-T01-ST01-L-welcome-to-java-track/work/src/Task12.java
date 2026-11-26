@@ -5,3 +5,4 @@ public class Task12 {
         System.out.println(res);
     }
 }
+T
